@@ -1,0 +1,6 @@
+def n1,n2:
+    return n1_n2
+
+
+def CA(r):
+   return 3.14^r*r
