@@ -4,3 +4,6 @@ def n1,n2:
 
 def CA(r):
    return 3.14^r*r
+
+def sqrt(n):
+   return n**0.5
